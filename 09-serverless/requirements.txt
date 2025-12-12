@@ -1,0 +1,4 @@
+onnxruntime
+torch==2.8.0
+torchvision
+pillow
